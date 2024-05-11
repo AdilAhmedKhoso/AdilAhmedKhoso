@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @AdilAhmedKhoso
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+AdilAhmedKhoso/README.md
+Hi 👋, I'm Adil Ahmed Khoso
+A passionate Web Developer Coding
 
-<!---
-AdilAhmedKhoso/AdilAhmedKhoso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Adil Ahmed Khoso
+
+🌱 I’m currently learning Web Developer
+
+👨‍💻 All of my projects are available at [https://www.linkedin.com/in/adil-khoso-4b144b19a/]
+
+
+📫 How to reach me aaadi5362@gmail.com
+
+Connect with me:
+Adil Khoso  
+
+Languages and Tools:
+git javascript nextjs nodejs postgresql python react tailwind typescript
+
+AdilAhmedKhoso
+
+AdilAhmedKhoso
+
+AdilAhmedKhoso
